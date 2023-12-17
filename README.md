@@ -33,13 +33,13 @@ Menyenangkan
 Warna: nuansa pagi hari
 # ANALYSIS : USER STORY
 
-Sebagai|Saya ingin bisa|Sehingga|Prioritas
-Pengguna|Mengirim cuitan|Bisa mengekspresikan pikiran saya|⭐⭐⭐⭐⭐
-Pengguna|Melihat cuitan yang saya buat|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐
-Pengguna|Mencari pengguna lain|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐
-Pengguna|Melihat cuitan dari pengguna lain|Bisa mengambil hikmah dan inspirasi|⭐⭐⭐⭐
-Pengguna|Membalas cuitan diri sendiri ataupun pengguna lain|Bisa memberi respon|⭐⭐⭐⭐⭐
-Pengguna|Mengikuti pengguna lain|Memudahkan mencari pengguna tersebut|⭐⭐⭐
+|Sebagai|Saya ingin bisa|Sehingga|Prioritas|
+|Pengguna|Mengirim cuitan|Bisa mengekspresikan pikiran saya|⭐⭐⭐⭐⭐|
+|Pengguna|Melihat cuitan yang saya buat|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
+|Pengguna|Mencari pengguna lain|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐|
+|Pengguna|Melihat cuitan dari pengguna lain|Bisa mengambil hikmah dan inspirasi|⭐⭐⭐⭐|
+|Pengguna|Membalas cuitan diri sendiri ataupun pengguna lain|Bisa memberi respon|⭐⭐⭐⭐⭐|
+|Pengguna|Mengikuti pengguna lain|Memudahkan mencari pengguna tersebut|⭐⭐⭐|
 
 # Desain user interface
 # Flow chart dari algoritma
