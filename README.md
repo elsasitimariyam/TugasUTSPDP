@@ -7,18 +7,28 @@ Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh 
 Merk: Campus Journey
 
 Tagline: Bersiaplah untuk perjalanan
-
 #Campaign: Bagaimana membuat game agar b
+
 #Target user:
+
 Usia 7+
+
 Seorang yang antusias dengan game simulasi dan perjalanan.
+
 Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+
 Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+
 Seorang yang ingin media cuitan alternatif yang lebih sehat
+
 User experience theme:
+
 Mudah
+
 Sederhana
+
 Menyenangkan
+
 Warna: nuansa pagi hari
 # ANALYSIS : USER STORY
 
