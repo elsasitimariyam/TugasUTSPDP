@@ -34,6 +34,7 @@ Warna: nuansa pagi hari
 # ANALYSIS : USER STORY
 
 |Sebagai|Saya ingin bisa|Sehingga|Prioritas|
+|-----|-----|-----|-----|
 |Pengguna|Mengirim cuitan|Bisa mengekspresikan pikiran saya|⭐⭐⭐⭐⭐|
 |Pengguna|Melihat cuitan yang saya buat|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
 |Pengguna|Mencari pengguna lain|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐|
