@@ -44,7 +44,8 @@ Warna: nuansa pagi hari
 
 # Desain user interface
 # Flow chart dari algoritma
-![Alt text](https://1drv.ms/i/s!AtwTLODtNo9GgXv9HsoQpJzz_1AL?e=zwSY6p)
+![Flowchart game-Page-1](https://github.com/elsasitimariyam/TugasUTSPDP/assets/144762238/2671a9a8-cb44-4e1e-972e-90de63583598)
+
 # Link demo game di Youtube
 # Link folder kode pemrograman dari game
 # ANALYSIS : BRANDING
