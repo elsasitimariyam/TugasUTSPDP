@@ -48,7 +48,12 @@ Warna: nuansa pagi hari
 
 # Link demo game di Youtube
 # Link folder kode pemrograman dari game
-# ANALYSIS : BRANDING
+# Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+# Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+# Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+# Bagaimana konsep method pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+# Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+# Jelaskan algoritma buatan sendiri yang digunakan pada pembuatan game ini !
 
 
 
