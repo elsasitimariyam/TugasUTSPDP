@@ -3,14 +3,14 @@ Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, kare
 
 # Deskripsi dan alur cerita dari game
 Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh tantangan dari rumah ke kampus. Pemain akan menghadapi berbagai rintangan dan memilih berbagai jalan yang akan memengaruhi perjalanan mereka kekampus. Kita akan membuat sebuah game sangat sederhana yang dimana pengguna dapat memilih akses berjalan, menaiki sepeda motor atau menaiki bus/angkot untuk berangkat kekampus.
-# ANALYSIS : BRANDING
+# Analysis : Branding
 Merk: Campus Journey
 
 Tagline: Bersiaplah untuk perjalanan
 
-#Campaign: Bagaimana membuat game yang membuat penggunanya senang me
+Campaign: Bagaimana membuat game yang membuat penggunanya senang me
 
-#Target user:
+Target user:
 
 Usia 7+
 
@@ -31,7 +31,7 @@ Sederhana
 Menyenangkan
 
 Warna: nuansa pagi hari
-# ANALYSIS : USER STORY
+# Analysis : User Story
 
 |Sebagai|Saya ingin bisa|Sehingga|Prioritas|
 |-----|-----|-----|-----|
