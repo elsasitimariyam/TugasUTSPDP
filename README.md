@@ -44,6 +44,7 @@ Warna: nuansa pagi hari
 
 # Desain user interface
 # Flow chart dari algoritma
+![Alt text](https://1drv.ms/i/s!AtwTLODtNo9GgXv9HsoQpJzz_1AL?e=zwSY6p)
 # Link demo game di Youtube
 # Link folder kode pemrograman dari game
 # ANALYSIS : BRANDING
