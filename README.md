@@ -54,6 +54,11 @@ Warna: nuansa pagi hari
 # Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep method pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+Konsep metode (method) dalam bahasa pemrograman Java sangat penting dalam pembuatan game karena metode digunakan untuk mengorganisir dan mendefinisikan perilaku atau fungsi-fungsi tertentu. Salah satu cara konsep method yang saya gunakan dalam pembuatan game 
+
+public class CampusJourneyGame {
+
+    public static void main(String[] args) {
 # Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 Konsep class dalam bahasa pemrograman Java sangat penting dalam pengembangan game. Class digunakan untuk mengorganisir kode secara objek-oriented, memungkinkan pembuatan objek dan pengelolaan fitur-fitur yang terkait dengan entitas tertentu dalam permainan. salah satu cara konsep class yang saya gunakan dalam pembuatan game Java
 
