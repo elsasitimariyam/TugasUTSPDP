@@ -35,9 +35,9 @@ Warna: nuansa pagi hari
 
 |Sebagai|Saya ingin bisa|Sehingga|Prioritas|
 |-----|-----|-----|-----|
-|Pemain|Berjalan kaki ke kampus|Bisa mengekspresikan pikira|⭐⭐⭐⭐⭐|
-|Pemain|Naik bus/angkot ke kampus|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
-|Pemain|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
+|Pemain|Berjalan kaki ke kampus|Bisa berjalan kaki kekampus|⭐⭐⭐⭐⭐|
+|Pemain|Naik bus/angkot ke kampus|Bisa naik bus/angkot kekampus|⭐⭐⭐⭐⭐|
+|Pemain|Mengendarai motor ke kampus|Bisa mengendarai motor kekampus|⭐⭐⭐⭐⭐|
 |Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan|Bisa menampilkan secara jelas untuk membimbing pemain|⭐⭐⭐|
 |Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memainkan game dengan lebih seru |⭐⭐⭐⭐⭐|
 |Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐⭐|
