@@ -18,7 +18,7 @@ Seorang yang antusias dengan game simulasi dan perjalanan.
 
 Seorang yang senang mengeksplorasi inspirasi dan informasi baru
 
-Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+Seorang yang berani mengambil risiko
 
 Seorang yang ingin media cuitan alternatif yang lebih sehat
 
@@ -48,13 +48,20 @@ Warna: nuansa pagi hari
 
 # Link demo game di Youtube
 # Link folder kode pemrograman dari game
-[game PDP.txt](https://github.com/elsasitimariyam/TugasUTSPDP/files/13698292/game.PDP.txt)
+[game PDP.txt](https://github.com/elsasitimariyam/TugasUTSPDP/files/13698307/game.PDP.txt)
 
 # Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep method pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep class pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+Konsep class dalam bahasa pemrograman Java sangat penting dalam pengembangan game. Class digunakan untuk mengorganisir kode secara objek-oriented, memungkinkan pembuatan objek dan pengelolaan fitur-fitur yang terkait dengan entitas tertentu dalam permainan. salah satu cara konsep class yang saya gunakan dalam pembuatan game Java
+
+public class CampusJourneyGame {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        introduction();
+
 # Jelaskan algoritma buatan sendiri yang digunakan pada pembuatan game ini !
 
 
