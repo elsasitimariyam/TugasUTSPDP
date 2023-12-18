@@ -2,7 +2,7 @@
 Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, karena ketika saya SMA banyak sekali rintangan ketika akan berangkat ke sekolah dan faktor utamanya yaitu karena susahnya kendaraan dan jarak rumah saya ke sekolah lumayan jauh, saya berangkat sekolah dengan teman saya yang membawa kendaraan, paman saya, ayah saya atau ketika libur saya suka naik angkot. ketika diperjalanan banyak sekali hambatan maupun rintangan yang saya alami ketika berangkat sekolah.
 
 # Deskripsi dan alur cerita dari game
-Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh tantangan dari rumah ke kampus. Pemain akan menghadapi berbagai rintangan dan memilih berbagai jalan yang akan memengaruhi perjalanan mereka kekampus. Kita akan membuat sebuah game sangat sederhana yang dimana pengguna dapat memilih akses berjalan, menaiki sepeda motor atau menaiki bus/angkot untuk berangkat kekampus.
+Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh tantangan dari rumah ke kampus. Kita akan membuat sebuah game sangat sederhana yang dimana pengguna dapat memilih akses berjalan, menaiki sepeda motor atau menaiki bus/angkot untuk berangkat kekampus. Pemain akan menghadapi berbagai rintangan dan memilih berbagai jalan yang akan memengaruhi perjalanan mereka kekampus. 
 # Analysis : Branding
 Merk: Campus Journey
 
