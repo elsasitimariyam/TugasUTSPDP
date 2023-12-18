@@ -38,11 +38,18 @@ Warna: nuansa pagi hari
 |Pemain|Berjalan kaki ke kampus|Bisa mengekspresikan pikira|⭐⭐⭐⭐⭐|
 |Pemain|Naik bus/angkot ke kampus|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
 |Pemain|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
-|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan|Bisa menampilkan secara jelas untuk membimbing pemain|⭐⭐⭐⭐|
+|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan|Bisa menampilkan secara jelas untuk membimbing pemain|⭐⭐⭐|
 |Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memainkan game dengan lebih seru |⭐⭐⭐⭐⭐|
-|Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐|
-|Pemain|Dapat menghentikan atau menyimpan perjalanan saat saya keluar dari permainan|Bisa menyimpan perjalanan dan melanjutkannya di sesi berikutnya|⭐⭐⭐⭐⭐|
-|Pemain|Memiliki pilihan untuk mengulang perjalanan atau memulai perjalanan baru|Bisa memberikan pengalaman yang berbeda|⭐⭐⭐⭐⭐|
+|Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐⭐|
+|Pemain|Dapat menghentikan atau menyimpan perjalanan saat saya keluar dari permainan|Bisa menyimpan perjalanan dan melanjutkannya di sesi berikutnya|⭐⭐⭐⭐|
+|Pemain|Memiliki pilihan untuk mengulang perjalanan atau memulai perjalanan baru|Bisa memberikan pengalaman yang berbeda|⭐⭐⭐⭐|
+|Pemain|Melihat dan mengelola pencapaian selama permainan|Bisa melihat pencapaian yang telah dicapai selama permainan|⭐⭐⭐|
+|Pemain|Melihat skor atau poin saya saat bermain|Bisa melihat perolehan poin mereka di menu atau antarmuka lainnya|⭐⭐⭐⭐|
+|Pemain|Memilih karakter sebelum memulai permainan|Bisa memilih karakter dari beberapa opsi yang tersedia|⭐⭐⭐|
+|Pemain|Memulai perjalanan baru untuk mengeksplorasi permainan|Bisa memulai perjalanan baru dari awal|⭐⭐⭐⭐|
+|Pemain|Merasakan perubahan cuaca (seperti hujan)|Bisa mempengaruhi tantangan dan pengalaman permainan|⭐⭐⭐⭐|
+
+
 
 # Desain user interface
 # Flow chart dari algoritma
