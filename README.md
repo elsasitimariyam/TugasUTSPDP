@@ -58,8 +58,11 @@ Warna: nuansa pagi hari
 Konsep class dalam bahasa pemrograman Java sangat penting dalam pengembangan game. Class digunakan untuk mengorganisir kode secara objek-oriented, memungkinkan pembuatan objek dan pengelolaan fitur-fitur yang terkait dengan entitas tertentu dalam permainan. salah satu cara konsep class yang saya gunakan dalam pembuatan game Java
 
 public class CampusJourneyGame {
+
     public static void main(String[] args) {
+    
         Scanner scanner = new Scanner(System.in);
+        
         introduction();
 
 # Jelaskan algoritma buatan sendiri yang digunakan pada pembuatan game ini !
