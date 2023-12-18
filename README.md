@@ -1,5 +1,5 @@
 # Latar Belakang Membuat game
-Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, karena ketika saya SMA banyak sekali rintangan ketika akan berangkat ke sekolah dan faktor utamanya yaitu karena susahnya kendaraan dan jarak rumah saya ke sekolah lumayan jauh, saya berngkat sekolah dengan teman saya yang membawa kendaraan, paman saya, ayah saya atau ketika libur saya suka naik angkot. ketika diperjalanan banyak sekali hambatan maupun rintangan yang saya alami ketika berangkat sekolah.
+Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, karena ketika saya SMA banyak sekali rintangan ketika akan berangkat ke sekolah dan faktor utamanya yaitu karena susahnya kendaraan dan jarak rumah saya ke sekolah lumayan jauh, saya berangkat sekolah dengan teman saya yang membawa kendaraan, paman saya, ayah saya atau ketika libur saya suka naik angkot. ketika diperjalanan banyak sekali hambatan maupun rintangan yang saya alami ketika berangkat sekolah.
 
 # Deskripsi dan alur cerita dari game
 Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh tantangan dari rumah ke kampus. Pemain akan menghadapi berbagai rintangan dan memilih berbagai jalan yang akan memengaruhi perjalanan mereka kekampus. Kita akan membuat sebuah game sangat sederhana yang dimana pengguna dapat memilih akses berjalan, menaiki sepeda motor atau menaiki bus/angkot untuk berangkat kekampus.
@@ -38,15 +38,11 @@ Warna: nuansa pagi hari
 |Pemain|Berjalan kaki ke kampus|Bisa mengekspresikan pikira|⭐⭐⭐⭐⭐|
 |Pemain|Naik bus/angkot ke kampus|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
 |Pemain|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
-|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan| Bisa menampilkan secara jelas untuk membimbing pemain|⭐⭐⭐⭐|
-|Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memberi respon|⭐⭐⭐⭐⭐|
+|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan|Bisa menampilkan secara jelas untuk membimbing pemain|⭐⭐⭐⭐|
+|Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memainkan game dengan lebih seru |⭐⭐⭐⭐⭐|
 |Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐|
-|Pemain|Dapat menghentikan atau menyimpan perjalanan saat saya keluar dari permainan| Bisa menyimpan perjalanan mereka dan melanjutkannya di sesi berikutnya|⭐⭐⭐⭐⭐|
+|Pemain|Dapat menghentikan atau menyimpan perjalanan saat saya keluar dari permainan|Bisa menyimpan perjalanan dan melanjutkannya di sesi berikutnya|⭐⭐⭐⭐⭐|
 |Pemain|Memiliki pilihan untuk mengulang perjalanan atau memulai perjalanan baru|Bisa memberikan pengalaman yang berbeda|⭐⭐⭐⭐⭐|
-|Pemain|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
-|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan| Bisa menampilkan secara jelas untuk membimbing pemain|⭐⭐⭐⭐|
-|Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memberi respon|⭐⭐⭐⭐⭐|
-|Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐|
 
 # Desain user interface
 # Flow chart dari algoritma
