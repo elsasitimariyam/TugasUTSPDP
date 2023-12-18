@@ -48,7 +48,7 @@ Warna: nuansa pagi hari
 
 # Link demo game di Youtube
 # Link folder kode pemrograman dari game
-[game PDP.txt](https://github.com/elsasitimariyam/TugasUTSPDP/files/13696892/game.PDP.txt)
+[game PDP.txt](https://github.com/elsasitimariyam/TugasUTSPDP/files/13698292/game.PDP.txt)
 
 # Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
