@@ -55,7 +55,7 @@ Dalam pembuatan game dengan bahasa pemrograman Java, konsep variabel, tipe data,
 
 tipe data
 
-int choice = getChoice(scanner, 1, 2);
+	int choice = getChoice(scanner, 1, 2);
 # Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 Konsep kondisi (conditions) dalam bahasa pemrograman Java sangat penting dalam pembuatan game karena memungkinkan kontrol alur program berdasarkan keadaan atau situasi tertentu. Salah satu cara konsep kondisi yang saya gunakan dalam pembuatan game
 
