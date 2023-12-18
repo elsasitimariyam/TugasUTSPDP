@@ -52,6 +52,8 @@ Warna: nuansa pagi hari
 
 
 # Desain user interface
+![WhatsApp Image 2023-12-18 at 11 48 51_a76bed23](https://github.com/elsasitimariyam/TugasUTSPDP/assets/144762238/8786e563-2318-4773-b375-9a65cfac8179)
+
 # Flow chart dari algoritma
 ![Flowchart game-Page-1](https://github.com/elsasitimariyam/TugasUTSPDP/assets/144762238/2671a9a8-cb44-4e1e-972e-90de63583598)
 
