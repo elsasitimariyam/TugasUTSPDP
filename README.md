@@ -1,5 +1,5 @@
 # Latar Belakang Membuat game
-Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, karena ketika saya SMA banyak sekali rintangan ketika akan berangkat ke sekolah dan faktor utamanya yaitu karena susahnya kendaraan dan jarak rumah saya ke sekolah lumayan jauh, saya berngkat sekolah dengan teman saya yang membawa kendaraan, paman saya, ayah saya atau ketika libur saya suka naik angkot.
+Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, karena ketika saya SMA banyak sekali rintangan ketika akan berangkat ke sekolah dan faktor utamanya yaitu karena susahnya kendaraan dan jarak rumah saya ke sekolah lumayan jauh, saya berngkat sekolah dengan teman saya yang membawa kendaraan, paman saya, ayah saya atau ketika libur saya suka naik angkot. ketika diperjalanan banyak sekali hambatan maupun rintangan yang saya alami ketika berangkat sekolah.
 
 # Deskripsi dan alur cerita dari game
 Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh tantangan dari rumah ke kampus. Pemain akan menghadapi berbagai rintangan dan memilih berbagai jalan yang akan memengaruhi perjalanan mereka kekampus. Kita akan membuat sebuah game sangat sederhana yang dimana pengguna dapat memilih akses berjalan, menaiki sepeda motor atau menaiki bus/angkot untuk berangkat kekampus.
@@ -8,7 +8,7 @@ Merk: Campus Journey
 
 Tagline: Bersiaplah untuk perjalanan
 
-Campaign: Bagaimana membuat game yang membuat penggunanya senang me
+Campaign: Bagaimana membuat game yang membuat penggunanya senang dengan perjalanan dan mampu mengambil risiko
 
 Target user:
 
@@ -16,11 +16,11 @@ Usia 7+
 
 Seorang yang antusias dengan game simulasi dan perjalanan.
 
-Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+Seorang yang senang mengeksplorasi perjalanan
 
 Seorang yang berani mengambil risiko
 
-Seorang yang ingin media cuitan alternatif yang lebih sehat
+Seorang yang ingin bermain game perjalanan yang menantang
 
 User experience theme:
 
@@ -36,11 +36,20 @@ Warna: nuansa pagi hari
 |Sebagai|Saya ingin bisa|Sehingga|Prioritas|
 |-----|-----|-----|-----|
 |Pemain|Berjalan kaki ke kampus|Bisa mengekspresikan pikira|⭐⭐⭐⭐⭐|
-|Pengguna|Naik bus/angkot ke kampus|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
-|Pengguna|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
-|Pengguna|Melihat cuitan dari pengguna lain|Bisa mengambil hikmah dan inspirasi|⭐⭐⭐⭐|
-|Pengguna|Membalas cuitan diri sendiri ataupun pengguna lain|Bisa memberi respon|⭐⭐⭐⭐⭐|
-|Pengguna|Mengikuti pengguna lain|Memudahkan mencari pengguna tersebut|⭐⭐⭐|
+|Pemain|Naik bus/angkot ke kampus|Bisa mengingatkan, mengevaluasi dan mengambil hikmah|⭐⭐⭐⭐⭐|
+|Pemain|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
+|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan| Bisa menampilkan secara jelas untuk membimbing pemain
+|⭐⭐⭐⭐|
+|Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memberi respon|⭐⭐⭐⭐⭐|
+|Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐|
+|Pemain|Dapat menghentikan atau menyimpan perjalanan saat saya keluar dari permainan| Bisa menyimpan perjalanan mereka dan melanjutkannya di sesi berikutnya|⭐⭐⭐⭐⭐|
+|Pemain|Memiliki pilihan untuk mengulang perjalanan atau memulai perjalanan baru|Bisa memberikan pengalaman yang berbeda
+|⭐⭐⭐⭐⭐|
+|Pemain|Naik motor ke kampus|Memudahkan mengakses cuitan pengguna tersebut|⭐⭐⭐⭐⭐|
+|Pemain|Melihat petunjuk atau tujuan saat menjalani perjalanan| Bisa menampilkan secara jelas untuk membimbing pemain
+|⭐⭐⭐⭐|
+|Pemain|Mendapatkan tantangan atau misi baru selama perjalanan|Bisa memberi respon|⭐⭐⭐⭐⭐|
+|Pemain|Mendapatkan imbalan atau poin setelah menyelesaikan setiap perjalanan|Bisa mendapatkan keuntungan dalam permainan|⭐⭐⭐|
 
 # Desain user interface
 # Flow chart dari algoritma
