@@ -52,6 +52,22 @@ Warna: nuansa pagi hari
 
 # Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep boolean dan conditions pada bahasa pemrograman digunakan dalam pembuatan game ini ?
+Konsep kondisi (conditions) dalam bahasa pemrograman Java sangat penting dalam pembuatan game karena memungkinkan kontrol alur program berdasarkan keadaan atau situasi tertentu. Salah satu cara konsep kondisi yang saya gunakan dalam pembuatan game
+
+if (choice == 1) {
+
+            System.out.println("kamu mengambil jalan pintas dan tiba di kampus dengan cepat.");
+            
+	    //kamu akan lebih cepat sampai, namun akan banyak rintangan karena kamu berjalan melalui kuburan
+     
+        } else {
+        
+            System.out.println("kamu tetap berada di jalur utama dan mencapai kampus dengan waktu lama.");
+            
+            // waktu kamu kekampus akan lebih lama, itu akan membuat kamu terlambat masuk kelas
+        }
+    }
+
 # Bagaimana konsep looping dan array pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 # Bagaimana konsep method pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 Konsep metode (method) dalam bahasa pemrograman Java sangat penting dalam pembuatan game karena metode digunakan untuk mengorganisir dan mendefinisikan perilaku atau fungsi-fungsi tertentu. Salah satu cara konsep method yang saya gunakan dalam pembuatan game 
