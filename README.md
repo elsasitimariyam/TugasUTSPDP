@@ -3,6 +3,40 @@ Saya ingin mendeskripsikan perjalanan saya selama sekolah melalui game ini, kare
 
 # Deskripsi dan alur cerita dari game
 Sebuah game perjalanan yang mengajak pemain merasakan perjalanan seru dan penuh tantangan dari rumah ke kampus. Kita akan membuat sebuah game sangat sederhana yang dimana pengguna dapat memilih akses berjalan, menaiki sepeda motor atau menaiki bus/angkot untuk berangkat kekampus. Pemain akan menghadapi berbagai rintangan dan memilih berbagai jalan yang akan memengaruhi perjalanan mereka kekampus. 
+Mahasiswa harus memilih cara terbaik untuk mencapai kampusnya setiap hari. Mereka bisa mengendarai motor, naik bus umum, atau memilih jalan kaki. Setiap pilihan membawa tantangan dan manfaat tersendiri.
+* Fitur Utama:
+Pilihan Transportasi:
+
+Motor: Cepat, tetapi rawan kemacetan dan kecelakaan.
+Bus: Aman dan nyaman, tetapi bisa terlambat.
+Jalan Kaki: Ramah lingkungan, tetapi memerlukan waktu lebih lama.
+Cuaca dan Waktu:
+
+Pemain dihadapkan pada variasi cuaca dan waktu. Misalnya, hujan bisa membuat motor lebih sulit dikendalikan, tetapi bus mungkin terlambat karena lalu lintas.
+Tantangan di Jalan:
+
+Lalu lintas, jalan rusak, atau bahkan kendaraan darurat yang memerlukan jalur jalan yang berbeda.
+Pengaruh Lingkungan:
+
+Pilihan transportasi berdampak pada lingkungan. Pemain dapat melihat dampak karbon dari setiap pilihan.
+Pilihan Karakter dan Cerita:
+
+Pemain bisa memilih karakter dan mengikuti cerita mereka. Beberapa karakter mungkin memiliki preferensi transportasi tertentu.
+Pengembangan Karakter:
+
+Pemain dapat meningkatkan keterampilan berkendara motor, mengetahui jadwal bus, atau meningkatkan ketahanan jalan kaki.
+Kompetisi Online:
+
+Pemain dapat bersaing secara online dalam leaderboard untuk melihat siapa yang memiliki waktu perjalanan tercepat atau dampak lingkungan terkecil.
+Tujuan Game:
+Memahami Dampak Pilihan:
+Pemain akan belajar bagaimana pilihan transportasi mereka mempengaruhi waktu perjalanan, kesehatan, dan dampak lingkungan.
+
+Peningkatan Keterampilan:
+Pemain dapat meningkatkan keterampilan mereka dengan menghadapi tantangan dan memilih strategi terbaik untuk mencapai kampus.
+
+Kesadaran Lingkungan:
+Game ini dapat meningkatkan kesadaran tentang dampak lingkungan dari pilihan transportasi sehari-hari.
 # Analysis : Branding
 Merk: Campus Journey
 
