@@ -151,7 +151,7 @@ Konsep class dalam bahasa pemrograman Java sangat penting dalam pengembangan gam
 
 # Jelaskan algoritma buatan sendiri yang digunakan pada pembuatan game ini !
 
-
+algoritma pada game ini yaitu, pertama kita masuk dan memulai game lalu kita memilih untuk perjalanan kita di game ini kita bisa memilih mengendarai motor, menaiki bus, atau berjalan kaki, namun setiap pilihan mempunyai tantangan atau manfaat tersendiri, contohnya yaitu ketika kita memilih untuk berjalan kaki maka kita memerlukan waktu lebih lama untuk sampai ke sekolah, ketika kita bisa melewati rintangan maka kita bisa melanjutkan permainan sampai finish tetapi kalau kita tidak bisa melewati rintangan maka game berhenti atau game over
 
 
 
