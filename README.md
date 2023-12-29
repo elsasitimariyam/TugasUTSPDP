@@ -16,9 +16,7 @@ Jalan Kaki: Ramah lingkungan, tetapi memerlukan waktu lebih lama.
 2. Cuaca dan Waktu:
 
 Pemain dihadapkan pada variasi cuaca dan waktu. Misalnya, hujan bisa membuat motor lebih sulit dikendalikan, tetapi bus mungkin terlambat karena lalu lintas.
-Tantangan di Jalan:
 
-Lalu lintas, jalan rusak, atau bahkan kendaraan darurat yang memerlukan jalur jalan yang berbeda.
 
 3. Pilihan Karakter dan Cerita:
 
@@ -98,7 +96,7 @@ Warna: nuansa pagi hari
 
 # Link demo game di Youtube
 # Link folder kode pemrograman dari game
-[game PDP.txt](https://github.com/elsasitimariyam/TugasUTSPDP/files/13698307/game.PDP.txt)
+[utsgame.txt](https://github.com/elsasitimariyam/TugasUTSPDP/files/13792147/utsgame.txt)
 
 # Bagaimana konsep variable, data type dan operator pada bahasa pemrograman digunakan dalam pembuatan game ini ?
 Dalam pembuatan game dengan bahasa pemrograman Java, konsep variabel, tipe data, dan operator sangat penting untuk mengelola data dan melakukan operasi yang diperlukan. Berikut ini salah satu cara konsep yang saya gunakan dalam pembuatan game
